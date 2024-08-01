@@ -1,0 +1,28 @@
+body {
+    font-family: Arial;
+    height: 100vh;
+    background: linear-gradient(to right, #a00c45, #a1026c, #6e0069); 
+}
+
+#principal {
+    color: rgb(170, 96, 255);
+    text-align: center;
+    margin-top: 170px;
+}
+
+#subtittle {
+    color: rgb(170, 96, 255);
+    text-align: center;
+}
+
+#text {
+    color: rgb(170, 96, 255);
+    text-align: center;
+    width: 70%;
+    margin-left: 15%;
+}
+
+#images{
+    width: 45%;
+    margin-left: 28%;
+}
